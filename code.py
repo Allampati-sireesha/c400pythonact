@@ -44,7 +44,7 @@ def save_facts(a, b, c, output_file):
 
 # Example usage
 if __name__ == "__main__":
-    csv_url = "https://example.com/path/to/yourfile.csv"  # Replace with your CSV link
+    csv_url = "https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv"  # Replace with your CSV link
     csv_file = "locations.csv"
 
     # Download the CSV file
